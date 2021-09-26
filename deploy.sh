@@ -17,3 +17,5 @@ git push -f https://github.com/MoYu-zc/MoYu-zc.github.io.git master
 
 # 部署到 https://<USERNAME>.github.io/<REPO>
 # git push -f git@github.com:MoYu-zc/MoYu-zc.github.io.git master:gh-pages
+
+# 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
